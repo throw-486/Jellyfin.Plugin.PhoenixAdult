@@ -730,6 +730,9 @@
     "50": {
       "0": [ "Manyvids", "https://www.manyvids.com", "/video/" ],
     },
+    "51": {
+        "0": [ "IWantClips", "https://iwantclips.com/store/item/" ],
+    },
   },
   "SiteIDList": {
     "0": "Network1service",
@@ -783,6 +786,7 @@
     "48": "NetworkMetadataAPI",
     "49": "SiteClips4Sale",
     "50": "SiteManyvids",
+    "51": "SiteIWantClips",
   },
   "Abbrieviations": {
     "^18og": "18OnlyGirls",
@@ -876,6 +880,7 @@
     "^ihaw": "IHaveAWife",
     "^iktg": "IKnowThatGirl",
     "^il": "ImmoralLive",
+    "^iwc": "IWantClips",
     "^kha": "KarupsHA",
     "^kow": "KarupsOW",
     "^kpc": "KarupsPC",
